@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Visit my homepage](https://www.zivertas.io)
+[Visit my homepage](https://www.zivertas.io?utm_source=gh&utm_content=readme)
 
 <!--
 **zzzarius/zzzarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
